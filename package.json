@@ -1,0 +1,17 @@
+{
+  "name": "node_spider",
+  "version": "1.0.0",
+  "description": "a simple spider by node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kwin",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "node-xlsx": "^0.12.1",
+    "request": "^2.88.0"
+  }
+}
