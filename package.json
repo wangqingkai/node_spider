@@ -12,6 +12,8 @@
     "async": "^2.6.1",
     "cheerio": "^1.0.0-rc.2",
     "node-xlsx": "^0.12.1",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "fs": "0.0.1-security",
+    "request-promise": "^4.2.2"
   }
 }
